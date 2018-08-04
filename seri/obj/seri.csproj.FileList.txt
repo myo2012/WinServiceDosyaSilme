@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\seri.Form1.resources
+obj\Debug\seri.Properties.Resources.resources
+obj\Debug\seri.csproj.GenerateResource.Cache
+bin\Debug\seri.exe
+bin\Debug\seri.pdb
+obj\Debug\seri.exe
+obj\Debug\seri.pdb
